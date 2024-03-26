@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coordinator Layout</string>
+    <string name="layout_based">Layout Based</string>
+    <string name="dummy_text">Whenever a view is interacting with the other then it is done with the help of Behaviors . We create a particular behavior for a particular view and these behaviors are responsible for animations between the views. Some of the common Material Design behaviors are sliding drawers , swipe-dismissal , floating action button , a sticky button that stick on some other view. So, broadly these behaviors can be classified into two types:Whenever a view is interacting with the other then it is done with the help of Behaviors . We create a particular behavior for a particular view and these behaviors are responsible for animations between the views. Some of the common Material Design behaviors are sliding drawers , swipe-dismissal
+        , floating action button , a sticky button that stick on some other view. So, broadly these behaviors can be classified into two types:Whenever a view is interacting with the other then it is done with the help of Behaviors . We create a particular behavior for a particular view and these behaviors are responsible for animations between the views. Some of the common Material Design behaviors are sliding drawers , swipe-dismissal , floating action button
+
+        a sticky button that stick on some other view. So, broadly these behaviors can be classified into two types:Whenever a view is interacting with the other then it is done with the help of Behaviors . We create a particular behavior for a particular view and these behaviors are responsible for animations between the views. Some of the common Material Design behaviors are sliding drawers , swipe-dismissal , floating action button , a sticky button that stick on some other view. So, broadly these behaviors can be classified into two types:
+
+    Whenever a view is interacting with the other then it is done with the help of Behaviors . We create a particular behavior for a particular view and these behaviors are responsible for animations between the views. Some of the common Material Design behaviors are sliding drawers , swipe-dismissal , floating action button , a sticky button that stick on some other view. So, broadly these behaviors can be classified into two types:
+    Whenever a view is interacting with the other then it is done with the help of Behaviors . We create a particular behavior for a particular view and these behaviors are responsible for animations between the views. Some of the common Material Design behaviors are sliding drawers , swipe-dismissal , floating action button , a sticky button that stick on some other view. So, broadly these behaviors can be classified into two types:
+    </string>
+    <string name="floating_action_bar">Floating Action Bar</string>
+    <string name="all">All</string>
+</resources>
